@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Udemy",
+    "telefone": "(11) 99662-8866",
+    "email": "udemy@academy.com"
+  },
+  {
+    "nome": "Colegio",
+    "telefone": "(11) 45557-8888",
+    "email": "Colegio@org.com"
+  }
+]
